@@ -16,11 +16,7 @@
 
 ---
 
-## 📸 Screenshots
 
-| Vault Dashboard | Edit & Strength Check |
-|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Edit](screenshots/edit.png) |
 
 ---
 
